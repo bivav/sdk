@@ -1,0 +1,121 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/bivav/AndroidStudioProjects/Recotap/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/bivav/AndroidStudioProjects/Recotap/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/bivav/AndroidStudioProjects/Recotap/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/bivav/AndroidStudioProjects/Recotap/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [:recotapsdk] /home/bivav/AndroidStudioProjects/Recotap/recotapsdk/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [pub.devrel:easypermissions:1.2.0] /home/bivav/.gradle/caches/transforms-1/files-1.1/easypermissions-1.2.0.aar/f74477d951acad52e28c168ea0af4154/AndroidManifest.xml:2:1-19:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/bivav/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/4199e8751a59cd1e52052e40e1967b20/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/bivav/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/75c68de97c60ec1734bc5cb609055702/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/bivav/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/553b620e2405bfb2e8113069c128baea/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/bivav/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/4688634bcd247fde57374e25e5fc0fad/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/bivav/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/f394d5bb88b7075eff6d2e46f8206c34/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/bivav/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/d0c3ce1a67c0f10bbfdb53694ea89a09/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/bivav/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/a241f1839993314600f54642697b9550/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/bivav/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/efe794ebe3a59a8cd2619f6c90be0d9b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/bivav/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/34b02f3d4e810d001d8363c3783e472b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/bivav/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/5e7d63dc96489313c2dc82b0a9ce7478/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/bivav/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e5de1827353d0b60c161c6dfa9a1ece9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/bivav/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/3e5c8dea3a66a90c0758ebc3047c191d/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/bivav/AndroidStudioProjects/Recotap/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/bivav/AndroidStudioProjects/Recotap/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/bivav/AndroidStudioProjects/Recotap/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /home/bivav/AndroidStudioProjects/Recotap/app/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /home/bivav/AndroidStudioProjects/Recotap/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bivav/AndroidStudioProjects/Recotap/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/bivav/AndroidStudioProjects/Recotap/app/src/main/AndroidManifest.xml
+		ADDED from /home/bivav/AndroidStudioProjects/Recotap/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/bivav/AndroidStudioProjects/Recotap/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/bivav/AndroidStudioProjects/Recotap/app/src/main/AndroidManifest.xml
+		ADDED from /home/bivav/AndroidStudioProjects/Recotap/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/bivav/AndroidStudioProjects/Recotap/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/bivav/AndroidStudioProjects/Recotap/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/bivav/AndroidStudioProjects/Recotap/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [pub.devrel:easypermissions:1.2.0] /home/bivav/.gradle/caches/transforms-1/files-1.1/easypermissions-1.2.0.aar/f74477d951acad52e28c168ea0af4154/AndroidManifest.xml:11:5-17:19
+MERGED from [pub.devrel:easypermissions:1.2.0] /home/bivav/.gradle/caches/transforms-1/files-1.1/easypermissions-1.2.0.aar/f74477d951acad52e28c168ea0af4154/AndroidManifest.xml:11:5-17:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/bivav/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/75c68de97c60ec1734bc5cb609055702/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/bivav/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/75c68de97c60ec1734bc5cb609055702/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /home/bivav/AndroidStudioProjects/Recotap/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/bivav/AndroidStudioProjects/Recotap/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/bivav/AndroidStudioProjects/Recotap/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/bivav/AndroidStudioProjects/Recotap/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/bivav/AndroidStudioProjects/Recotap/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/bivav/AndroidStudioProjects/Recotap/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.recotap.recotap.MainActivity
+ADDED from /home/bivav/AndroidStudioProjects/Recotap/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/bivav/AndroidStudioProjects/Recotap/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/bivav/AndroidStudioProjects/Recotap/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/bivav/AndroidStudioProjects/Recotap/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/bivav/AndroidStudioProjects/Recotap/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/bivav/AndroidStudioProjects/Recotap/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/bivav/AndroidStudioProjects/Recotap/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /home/bivav/AndroidStudioProjects/Recotap/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/bivav/AndroidStudioProjects/Recotap/app/src/main/AndroidManifest.xml
+INJECTED from /home/bivav/AndroidStudioProjects/Recotap/app/src/main/AndroidManifest.xml
+MERGED from [:recotapsdk] /home/bivav/AndroidStudioProjects/Recotap/recotapsdk/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:recotapsdk] /home/bivav/AndroidStudioProjects/Recotap/recotapsdk/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [pub.devrel:easypermissions:1.2.0] /home/bivav/.gradle/caches/transforms-1/files-1.1/easypermissions-1.2.0.aar/f74477d951acad52e28c168ea0af4154/AndroidManifest.xml:7:5-9:41
+MERGED from [pub.devrel:easypermissions:1.2.0] /home/bivav/.gradle/caches/transforms-1/files-1.1/easypermissions-1.2.0.aar/f74477d951acad52e28c168ea0af4154/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/bivav/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/4199e8751a59cd1e52052e40e1967b20/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/bivav/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/4199e8751a59cd1e52052e40e1967b20/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/bivav/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/75c68de97c60ec1734bc5cb609055702/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/bivav/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/75c68de97c60ec1734bc5cb609055702/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/bivav/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/553b620e2405bfb2e8113069c128baea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/bivav/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/553b620e2405bfb2e8113069c128baea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/bivav/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/4688634bcd247fde57374e25e5fc0fad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/bivav/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/4688634bcd247fde57374e25e5fc0fad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/bivav/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/f394d5bb88b7075eff6d2e46f8206c34/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/bivav/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/f394d5bb88b7075eff6d2e46f8206c34/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/bivav/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/d0c3ce1a67c0f10bbfdb53694ea89a09/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/bivav/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/d0c3ce1a67c0f10bbfdb53694ea89a09/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/bivav/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/a241f1839993314600f54642697b9550/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/bivav/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/a241f1839993314600f54642697b9550/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/bivav/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/efe794ebe3a59a8cd2619f6c90be0d9b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/bivav/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/efe794ebe3a59a8cd2619f6c90be0d9b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/bivav/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/34b02f3d4e810d001d8363c3783e472b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/bivav/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/34b02f3d4e810d001d8363c3783e472b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/bivav/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/5e7d63dc96489313c2dc82b0a9ce7478/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/bivav/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/5e7d63dc96489313c2dc82b0a9ce7478/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/bivav/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e5de1827353d0b60c161c6dfa9a1ece9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/bivav/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e5de1827353d0b60c161c6dfa9a1ece9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/bivav/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/3e5c8dea3a66a90c0758ebc3047c191d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/bivav/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/3e5c8dea3a66a90c0758ebc3047c191d/AndroidManifest.xml:20:5-44
+INJECTED from /home/bivav/AndroidStudioProjects/Recotap/app/src/main/AndroidManifest.xml
+INJECTED from /home/bivav/AndroidStudioProjects/Recotap/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/bivav/AndroidStudioProjects/Recotap/app/src/main/AndroidManifest.xml
+		ADDED from /home/bivav/AndroidStudioProjects/Recotap/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bivav/AndroidStudioProjects/Recotap/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/bivav/AndroidStudioProjects/Recotap/app/src/main/AndroidManifest.xml
+		ADDED from /home/bivav/AndroidStudioProjects/Recotap/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bivav/AndroidStudioProjects/Recotap/app/src/main/AndroidManifest.xml
+activity#pub.devrel.easypermissions.AppSettingsDialogHolderActivity
+ADDED from [pub.devrel:easypermissions:1.2.0] /home/bivav/.gradle/caches/transforms-1/files-1.1/easypermissions-1.2.0.aar/f74477d951acad52e28c168ea0af4154/AndroidManifest.xml:12:9-16:66
+	android:label
+		ADDED from [pub.devrel:easypermissions:1.2.0] /home/bivav/.gradle/caches/transforms-1/files-1.1/easypermissions-1.2.0.aar/f74477d951acad52e28c168ea0af4154/AndroidManifest.xml:15:13-29
+	android:exported
+		ADDED from [pub.devrel:easypermissions:1.2.0] /home/bivav/.gradle/caches/transforms-1/files-1.1/easypermissions-1.2.0.aar/f74477d951acad52e28c168ea0af4154/AndroidManifest.xml:14:13-37
+	android:theme
+		ADDED from [pub.devrel:easypermissions:1.2.0] /home/bivav/.gradle/caches/transforms-1/files-1.1/easypermissions-1.2.0.aar/f74477d951acad52e28c168ea0af4154/AndroidManifest.xml:16:13-63
+	android:name
+		ADDED from [pub.devrel:easypermissions:1.2.0] /home/bivav/.gradle/caches/transforms-1/files-1.1/easypermissions-1.2.0.aar/f74477d951acad52e28c168ea0af4154/AndroidManifest.xml:13:13-86
